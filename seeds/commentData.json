@@ -1,0 +1,29 @@
+[
+  {
+    "content": "Great goal!",
+    "date_created": "04/29/2021",
+    "user_id": 3, 
+    "post_id": 1
+  },
+
+  {   
+    "content": "You're number one!",
+    "date_created": "04/29/2021",
+    "user_id": 4, 
+    "post_id": 2
+  },
+
+  {      
+    "content": "Best sport on the planet!",
+    "date_created": "04/29/2021",
+    "user_id": 1, 
+    "post_id": 3
+  },
+
+  {
+    "content": "Goal, Assist, Fight - Gordie Howe Hat Trick!",
+    "date_created": "04/29/2021",
+    "user_id": 2, 
+    "post_id": 4
+  }
+]
