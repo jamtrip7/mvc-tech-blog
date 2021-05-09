@@ -21,7 +21,7 @@
 
 ## Description
 
-This is an E Commerce Back End manager. 
+This is an MVC Tech Blog. That allows users to post, edit and delete post as needed. Other users are also allowed to comment on your posts.
 
 #### Technologies Used
 
@@ -50,7 +50,13 @@ This is an E Commerce Back End manager.
 
 ## How to Use
 
-- 
+- 1) Sign-up on login page.
+  2) Login.
+  3) Create a post.
+  4) Edit your post.
+  5) Delete your post.
+  6) Comment on other users posts.
+  7) Logout.
 
 [Back to Top](#MVC-Tech-Blog)
 
