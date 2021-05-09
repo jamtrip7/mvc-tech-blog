@@ -1,6 +1,6 @@
 # MVC Tech Blog
 
-![Dashboard Image]()
+![Dashboard Image](https://github.com/jamtrip7/mvc-tech-blog/blob/main/screenshot/Screenshot.jpg)
 
 > [MVC Tech Blog]()
 
