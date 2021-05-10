@@ -2,7 +2,7 @@
 
 ![Dashboard Image](https://github.com/jamtrip7/mvc-tech-blog/blob/main/screenshot/Screenshot.jpg)
 
-> [MVC Tech Blog](https://git.heroku.com/mvctechblog78.git)
+> [MVC Tech Blog](https://mvctechblog78.herokuapp.com/)
 
 ---
 
